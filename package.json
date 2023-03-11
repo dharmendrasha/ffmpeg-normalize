@@ -1,9 +1,13 @@
 {
 	"name": "@dharmendrasha/ffmpeg-normalize",
-	"version": "1.8.0",
+	"version": "1.8.2",
 	"description": "Audio normalization with ffmpeg.",
 	"license": "MIT",
 	"repository": "dharmendrasha/ffmpeg-normalize",
+	"publishConfig": {
+		"registry": "https://registry.npmjs.org",
+		"access": "public"
+	},
 	"author": {
 		"name": "Dharmendra Soni",
 		"email": "dharmendrashaheagle@gmail.com",
